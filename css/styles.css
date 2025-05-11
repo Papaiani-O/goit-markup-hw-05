@@ -694,7 +694,7 @@ padding: 12px 12px;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-input:focus+.modal-form-item-svg {
+.modal-input:focus ~ .modal-form-item-svg {
     fill: #4d5ae5;
 }
 
