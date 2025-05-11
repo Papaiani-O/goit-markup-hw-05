@@ -659,9 +659,12 @@ padding: 12px 12px;
 }
 
 .modal-label-div {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
+.comment {
+    margin-bottom: 16px; 
+}
 .modal-form-item {
     position: relative;
 }
